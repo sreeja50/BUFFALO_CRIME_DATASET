@@ -1,2 +1,5 @@
 # BUFFALO_CRIME_DATASET
-This is a region based and time based analysis of Buffalo crime dataset.
+This repository contains the source code and data based on Buffalo crime dataset. The data has been taken from data.gov governemnt portal. The main aim of this project is to do analysis of sexual crime around Buffalo region in order to get an idea of how safe Buffalo region is for women. 
+Using python I first did cleansing of the data and subsetted the data into sexual and nonsexual crimes. Again, after analysing I found that it is relevant to filter data for the past 10 years, since it helped in finding the trend (whether increasing or decreasing) of the number of crimes. I divided the whole Buffalo region into four main parts: Downtown region, Airport Region, University at Buffalo North Campus and South Campus. I want to see which region is the safest and which is the most crime prone region and hence unsafe for women.
+After analysing I found the most safest place for women is University at Buffalo North Campus and the most unsafe place is the Downtown region. I also did a time based analysis on the past 10 years where I did a comparative analysis of both sexual and nonsexual crimes and tried to figure out increasing or decreasing trends in crimes since the past 10 years in Buffalo.
+
